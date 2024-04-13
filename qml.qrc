@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>night.jpg</file>
+        <file>snowflake.png</file>
+    </qresource>
+</RCC>
